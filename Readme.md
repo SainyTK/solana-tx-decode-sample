@@ -16,3 +16,6 @@ npm install
 ```bash
 npm start
 ```
+
+## References
+- [Explanation by SHYFT](https://blogs.shyft.to/how-to-parse-raw-transaction-in-solana-ed392e95e5dd)
